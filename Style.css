@@ -1,0 +1,35 @@
+body {
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.orange-coloar {
+    color: orange;
+
+}
+
+section {
+    display: flex;
+
+}
+
+.half-weith {
+    width: 50%;
+
+}
+
+.half-weith img {
+    width: 100%;
+}
+
+.Link-Button {
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
